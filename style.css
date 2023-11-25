@@ -1387,7 +1387,7 @@
 
 
 
- @media (min-width:400px) and (max-width:768px){
+ @media (max-width:480px){
 
     .container{
         width:100%;
